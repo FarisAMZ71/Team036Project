@@ -1,0 +1,1 @@
+This is where all media (pictures, icons, etc.) are stored.

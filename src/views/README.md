@@ -1,0 +1,1 @@
+This is where the Java Swing and AWT classes are stored.
